@@ -2,7 +2,7 @@
 ---
 ### **проверка AppVeyor**
 
-![CI](https://github.com/Sinsl/ahj-homework-testing/actions/workflows/web.yml/badge.svg)
+![CI](https://ci.appveyor.com/api/projects/status/o7eahrknqt7ub3bo?svg=true)
 
 ### **Ссылка на страницу**
-[Github Page](https://sinsl.github.io/ahj-homework-testing/)
+[Github Page](https://AnutaSt.github.io/ahj_TEST/)
